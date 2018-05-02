@@ -6,7 +6,7 @@ NOTE: All files in the zip file will be loaded into memory. It is assumed that t
 
 Example code:
 
-```
+```go
 package main
 
 import (
