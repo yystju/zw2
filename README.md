@@ -1,7 +1,8 @@
 # Zip File System for HTTP
 
-## This is an exercise for learning Go language.
+## This is an exercise of learning Go language.
 
+[Example code]
 ```
 package main
 
