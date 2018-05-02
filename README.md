@@ -2,7 +2,10 @@
 
 ## This is an exercise of learning Go language.
 
-[Example code]
+NOTE: All files in the zip file will be loaded into memory. It is assumed that the content wouldn't be too large.
+
+Example code:
+
 ```
 package main
 
